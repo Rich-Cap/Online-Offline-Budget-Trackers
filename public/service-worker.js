@@ -6,8 +6,8 @@ const FILES_TO_CACHE = [
 	'/index.js',
 	'/manifest.webmanifest',
 	'/styles.css',
-	'/icons/icons-192x192.png',
-	'/icons/icons-512x512.png'
+	'/icons/icon-192x192.png',
+	'/icons/icon-512x512.png'
 ];
 
 const CACHE_NAME = "static-cache-v2";
