@@ -33,8 +33,8 @@ When brought back online:
 ## Images/Content
 ---
 
-<!-- ### Online-Offline-Budget-Trackers App
-![Online-Offline-Budget-Trackers gif](./public/assets/) -->
+### Online-Offline-Budget-Trackers App
+![Online-Offline-Budget-Trackers gif](./public/assets/Budget-TrackerHW.gif)
 
 ---
 
